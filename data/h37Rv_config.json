@@ -1,0 +1,1 @@
+{"assembly": {"name": "H37Rv"}, "sequence": {"type": "ReferenceSequenceTrack", "trackId": "H37Rv-ReferenceSequenceTrack", "adapter": {"type": "IndexedFastaAdapter", "fastaLocation": {"uri": "/Users/skulkarni/Desktop/H37Rv_ref_genome.fna", "locationType": "UriLocation"}, "faiLocation": {"uri": "/Users/skulkarni/Desktop/H37Rv_ref_genome.fna.fai", "locationType": "UriLocation"}}}}
